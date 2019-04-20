@@ -2,7 +2,7 @@
 while True:
     try:
         import numpy as np; import random
-        n = 7
+        n = 10
         A = np.zeros(n,dtype=np.int_)
         for i in range(n):
             A[i] = random.randint(0,20)
