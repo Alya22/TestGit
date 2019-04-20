@@ -1,4 +1,4 @@
-'''работа с GIT'''
+
 while True:
     try:
         import numpy as np; import random
